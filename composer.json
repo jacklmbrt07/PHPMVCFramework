@@ -1,0 +1,15 @@
+{
+    "name": "jacklambertwork/phpmvc-framework",
+    "autoload": {
+        "psr-4": {
+            "Jacklambertwork\\PhpmvcFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jacklmbrt07",
+            "email": "jacklmbrt07@gmail.com"
+        }
+    ],
+    "require": {}
+}
